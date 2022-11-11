@@ -1,0 +1,3 @@
+let immagini [];
+
+// creazione array
